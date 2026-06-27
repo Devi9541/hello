@@ -1,2 +1,2 @@
 # hello
-My first repository on GitHub
+Pinky is a good girl
